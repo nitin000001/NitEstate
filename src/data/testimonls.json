@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Luxury Villa",
+        "image": "https://plus.unsplash.com/premium_photo-1661765778256-169bf5e561a6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aW50ZXJpb3IlMjBkZXNpZ258ZW58MHx8MHx8fDA%3D",
+        "place": "Mumbai, India",
+        "type": "Villa"
+    },
+    {
+        "id": 2,
+        "name": "Ocean View Apartment",
+        "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aW50ZXJpb3IlMjBkZXNpZ258ZW58MHx8MHx8fDA%3D",
+        "place": "Mumbai, India",
+        "type": "Apartment"
+    },
+    {
+        "id": 3,
+        "name": "Cozy 2BHK Flat",
+        "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aW50ZXJpb3IlMjBkZXNpZ258ZW58MHx8MHx8fDA%3D",
+        "place": "Pune, India",
+        "type": "Flat"
+    },
+    {
+        "id": 4,
+        "name": "Luxury Penthouse",
+        "image": "https://images.unsplash.com/photo-1616046229478-9901c5536a45?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aW50ZXJpb3IlMjBkZXNpZ258ZW58MHx8MHx8fDA%3D",
+        "place": "Delhi, India",
+        "type": "Penthouse"
+    },
+    {
+        "id": 5,
+        "name": "3BHK Furnished Apartment",
+        "image": "https://images.unsplash.com/photo-1606744837616-56c9a5c6a6eb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGludGVyaW9yJTIwZGVzaWdufGVufDB8fDB8fHww",
+        "place": "Bangalore, India",
+        "type": "Apartment"
+    },
+    {
+        "id": 6,
+        "name": "Modern Office Space",
+        "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGludGVyaW9yJTIwZGVzaWdufGVufDB8fDB8fHww",
+        "place": "Gurgaon, India",
+        "type": "Commercial"
+    },
+    {
+        "id": 7,
+        "name": "Elegant Studio Apartment",
+        "image": "https://media.istockphoto.com/id/2046945081/photo/modern-style-luxury-black-living-room-with-city-view-in-the-night-3d-render.webp?a=1&b=1&s=612x612&w=0&k=20&c=mfD6XrEfmjw-AIOwKvgnjP7X7svgVeU0kf1GKjwIAZc=",
+        "place": "Mumbai, India",
+        "type": "Studio Apartment"
+    },
+    {
+        "id": 8,
+        "name": "Beachside Bungalow",
+        "image": "https://media.istockphoto.com/id/1449624572/photo/midcentury-modern-interior-design-with-yellow-sofa-and-decoration-wall-3d-rendering.webp?a=1&b=1&s=612x612&w=0&k=20&c=forOtS_xohOs6s2cvAJ-54EgCsaGkMTfnVfF2ZrlAC4=",
+        "place": "Goa, India",
+        "type": "Bungalow"
+    },
+    {
+        "id": 9,
+        "name": "Farmhouse Retreat",
+        "image": "https://media.istockphoto.com/id/1284941025/photo/digitally-rendered-view-of-a-beautiful-living-room.webp?a=1&b=1&s=612x612&w=0&k=20&c=EQkirwPuGE6wU98Xbh5So170n6xX_M1y5LHZmh5OYEM=",
+        "place": "Lonavala, India",
+        "type": "Farmhouse"
+    },
+    {
+        "id": 10,
+        "name": "1BHK Compact Home",
+        "image": "https://media.istockphoto.com/id/2154867267/photo/a-modern-apartment-featured-with-bar-set-up-open-kitchen-and-dining-area.webp?a=1&b=1&s=612x612&w=0&k=20&c=ZiUJkaoU2MTqhlc8et6-b7F-5Uf1q5r1VyRvw3RcEPc=",
+        "place": "Mumbai, India",
+        "type": "Apartment"
+    }
+]
